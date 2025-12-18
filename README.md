@@ -80,6 +80,7 @@ El archivo del dashboard se encuentra disponible en el repositorio:
 
 - Data en BI
 <img width="1393" height="752" alt="image" src="https://github.com/user-attachments/assets/0d2bd0f7-e86d-4f42-80d3-e608e60cfe04" />
+
 ## 📥 Dataset
 
 El dataset utilizado en este proyecto es de acceso público y fue obtenido desde la plataforma Kaggle:
